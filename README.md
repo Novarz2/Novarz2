@@ -5,9 +5,7 @@
  
 
 - 📝 I regularly write articles on [Medium](https://medium.com/NSerus)
-
-- 📫 How to reach me **nunoworkingserus@gmail.com**
-
+ 
 - ⚡ Fun fact **I ScubaDive and play Guitar**
 
 <h3 align="left">Connect with me:</h3>
