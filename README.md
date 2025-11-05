@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm NSerus</h1>
+<h1 align="center">Hi 👋, I'm Novarz</h1>
 <h3 align="center">A Guy that Develops</h3>
 
 - 🌱 I’m currently learning **React and IndexedDB** in my new project **Homepage**
- 
-
-- 📝 I regularly write articles on [Medium](https://medium.com/NSerus)
  
 - ⚡ Fun fact **I ScubaDive and play Guitar**
 
